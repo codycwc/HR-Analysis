@@ -1,2 +1,2 @@
-![Dashboard 1](dashboard/employee.png)
-![Dashboard 2](dashboard/attrition.png)
+![Dashboard 1](employee.png)
+![Dashboard 2](attrition.png)
