@@ -32,10 +32,3 @@ This interactive dashboard offers a comprehensive view of:
 - **Female representation** stands at 40%, with males at 60%.
 - Employees aged **under 20** show the **highest attrition rate** at 59%.
 
----
-
-## Files Included
-
-- `hr_dashboard.pbix` – Power BI dashboard file.
-- `hr_test.sql` – SQL script used to query and prepare data.
-- `hr_dashboard.pdf` – PDF snapshot of the dashboard visuals.
